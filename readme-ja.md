@@ -3,6 +3,9 @@
 
 外部のインターネットサービスと通信しないため、機密情報が含まれる画像でも安全に使用できます。また、元の画像ファイルを書き換えたり消したりすることもありません。
 
+<div align="center">
+  <img width="480" height="270" alt="プレゼンテーション1" src="https://github.com/user-attachments/assets/f4e62bd1-d78e-4a69-8559-108d1a587043" />
+
 ---
 
 ## 🛠️ 動作に必要な環境
