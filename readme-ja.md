@@ -20,17 +20,13 @@
 
 ## 🚀 基本的な使い方
 
-ツールの実行は、コマンド入力画面から行います。
-例えばMacの場合は「**ターミナル**」、Windowsの場合は「**PowerShell**」を開くことができます。
+ツールの実行は、コマンド入力画面から行います。例えばMacの場合は「**ターミナル**」、Windowsの場合は「**PowerShell**」を開くことができます。
 
-### 1. コマンドの入力
-`slides` フォルダの中にある画像を読み込んで、`presentation.md` という名前のMarkdownファイルを作成する場合の例です。images2md.pyはtoolsフォルダに入っている前提です。以下のコマンドをコピーして画面に貼り付け、Enterキーを押して実行します。
+### 1.　作業フォルダからコマンド入力画面を開く
 
+* **🍎 Macの場合:** 画面右上の虫眼鏡マークから「ターミナル」を開きます。半角で `cd ` と入力し（※まだEnterは押さない）、作業フォルダを画面内に**ドラッグ＆ドロップ**してEnterキーを押します。
+* **🪟 Windowsの場合:** 作業フォルダを開きます。フォルダ画面の何もない場所で、シフトキーを押しながらマウスの右クリックで「PowerShellウィインドをここで開く」を選びます。
 
-```bash
-python tools/images2md.py ./slides -o presentation.md
-
-```
 ```
 📂 現在のフォルダ
 │
@@ -44,6 +40,16 @@ python tools/images2md.py ./slides -o presentation.md
 │　　└── ...
 ```
 
+
+
+### 2. コマンドの入力
+`slides` フォルダの中にある画像を読み込んで、`presentation.md` という名前のMarkdownファイルを作成する場合の例です。images2md.pyはtoolsフォルダに入っている前提です。以下のコマンドをコピーして画面に貼り付け、Enterキーを押して実行します。
+
+
+```bash
+python tools/images2md.py ./slides -o presentation.md
+
+```
 
 
 ### 2. 実行結果の確認
