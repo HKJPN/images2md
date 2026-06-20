@@ -1,5 +1,7 @@
 # images2md.py
 
+ [🇯🇵 日本語](readme-ja.md) or [🇺🇸 English](README.md) 
+
 `images2md.py` is an independent Python CLI tool that converts PNG, JPEG, and WebP files directly under an input folder into MD//WORKS-compatible Markdown.
 
 It uses only Python standard-library modules, does not contact external services, and never modifies source images.
