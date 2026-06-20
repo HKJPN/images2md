@@ -1,5 +1,6 @@
 # images2md.py ユーザーマニュアル ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
  [🇺🇸 English](README.md) or [🇯🇵 日本語](readme-ja.md) 
+ 
 `images2md.py` は、フォルダ内にある複数の画像（スライドやスクリーンショットなど）を、1つの「Markdown（マークダウン）ファイル」へ自動でまとめてくれる便利なツールです。
 
 外部のインターネットサービスと通信しないため、機密情報が含まれる画像でも安全に使用できます。また、元の画像ファイルを書き換えたり消したりすることもありません。
