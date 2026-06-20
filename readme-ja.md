@@ -5,6 +5,7 @@
 
 <div align="center">
   <img width="480" height="270" alt="プレゼンテーション1" src="https://github.com/user-attachments/assets/f4e62bd1-d78e-4a69-8559-108d1a587043" />
+  </div>
 
 ---
 
