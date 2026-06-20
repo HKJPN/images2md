@@ -1,4 +1,4 @@
-# images2md.py
+# images2md.py![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
  [🇯🇵 日本語](readme-ja.md) or [🇺🇸 English](README.md) 
 
