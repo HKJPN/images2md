@@ -12,6 +12,8 @@
 - Python 3.10 or later
 - No third-party packages
 
+>Note: On iPad, you can use a free local terminal app like a-Shell to run this tool.  
+
 ## Basic usage
 
 ```bash
