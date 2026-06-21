@@ -2,7 +2,7 @@
 
  [🇯🇵 日本語](readme-ja.md) or [🇺🇸 English](README.md) 
 
-`images2md.py` is an independent Python CLI tool that converts PNG, JPEG, and WebP files directly under an input folder into a Markdown file. It uses only Python standard-library modules, does not contact external services, and never modifies source images.
+`images2md.py` is an independent Python CLI tool that converts PNG, JPEG, and WebP files directly under an input folder into a Markdown file. It uses only Python standard-library modules, does not contact external services, and never modifies source images. You can also use [MD//WORKS](https://github.com/HKJPN/markdown-editor) to further edit or encrypt the generated Markdown file.
 <div align="center">
   <img width="480" height="270" alt="プレゼンテーション1" src="https://github.com/user-attachments/assets/f4e62bd1-d78e-4a69-8559-108d1a587043" />
 </div>
